@@ -1,0 +1,37 @@
+{
+  "data": {
+    "content": "encrypted content",
+    "signature": "JKQWJK34K32JJEK2JQWJ5678",
+    "dataDescription": {
+      "codeType": "0",
+      "encryptCode": "1",
+      "zipCode": "0"
+    }
+  },
+  "globalInfo": {
+    "appId": "AP01",
+    "version": "1.1.20191201",
+    "dataExchangeId": "9230489223014123",
+    "interfaceCode": "T101",
+    "requestCode": "TP",
+    "requestTime": "2019-06-11 17:07:07",
+    "responseCode": "TA",
+    "userName": "admin",
+    "deviceMAC": "FFFFFFFFFFFF",
+    "deviceNo": "00022000634",
+    "tin": "1009830865",
+    "brn": "",
+    "taxpayerID": "1",
+    "longitude": "116.397128",
+    "latitude": "39.916527",
+    "extendField": {
+      "responseDateFormat": "dd/MM/yyyy",
+      "responseTimeFormat": "dd/MM/yyyy HH:mm:ss",
+      "referenceNo": "21PL010020807"
+    }
+  },
+  "returnStateInfo": {
+    "returnCode": "",
+    "returnMessage": ""
+  }
+}
