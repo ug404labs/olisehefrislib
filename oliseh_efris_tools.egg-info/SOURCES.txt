@@ -1,0 +1,6 @@
+setup.py
+oliseh_efris_tools.egg-info/PKG-INFO
+oliseh_efris_tools.egg-info/SOURCES.txt
+oliseh_efris_tools.egg-info/dependency_links.txt
+oliseh_efris_tools.egg-info/requires.txt
+oliseh_efris_tools.egg-info/top_level.txt
